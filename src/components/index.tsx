@@ -1,0 +1,10 @@
+export { Header } from "./Header";
+export { Footer } from "./Footer";
+export { About } from "./About";
+export { Contact } from "./Contact";
+export { Hero } from "./Hero";
+export { LatestBlogs } from "./LatestBlogs";
+export { NewCollection } from "./NewCollection";
+export { Home } from "./Home";
+export { Sale } from "./Sale";
+export { Menswear } from "./Menswear";
